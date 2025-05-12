@@ -1,4 +1,3 @@
-import { useEffect, useState } from "react";
 import { SidebarTrigger } from "./ui/sidebar";
 
 export function Header() {
