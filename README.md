@@ -6,9 +6,7 @@ Feita com **Next.js (App Router)**, **TypeScript**, **Tailwind CSS** e **Vitest*
 ---
 
 ## 📸 Preview
-
-<!-- Substitua com um screenshot do seu projeto se quiser -->
-![Preview](./public/screenshot.png)
+https://github.com/user-attachments/assets/08ca4d12-9077-4a36-b496-3a7af5f0541c
 
 ---
 
