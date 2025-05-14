@@ -106,6 +106,7 @@ export function CreateProductModal() {
   };
 
   const gerarImagemAleatoria = () => {
+    setErrors({ ...errors, image: "" });
     const id = Math.floor(Math.random() * 200) + 1;
     const url = `https://picsum.photos/id/${id}/300/200`;
 
