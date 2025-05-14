@@ -9,13 +9,13 @@ import {
   SidebarMenuItem,
 } from "./ui/sidebar";
 
-import { Boxes, Calendar, Home, Inbox, Search, Settings } from "lucide-react";
+import { Package } from "lucide-react";
 
 const items = [
   {
     title: "Produtos",
-    url: "#",
-    icon: Boxes,
+    url: "/produtos",
+    icon: Package,
   },
 ];
 
@@ -24,7 +24,7 @@ export function AppSidebar() {
     <Sidebar>
       <SidebarContent>
         <SidebarGroup>
-          <SidebarGroupLabel>Application</SidebarGroupLabel>
+          <SidebarGroupLabel>Controle</SidebarGroupLabel>
           <SidebarGroupContent>
             <SidebarMenu>
               {items.map((item) => (
