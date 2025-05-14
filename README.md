@@ -41,6 +41,16 @@ Feita com **Next.js (App Router)**, **TypeScript**, **Tailwind CSS** e **Vitest*
 # Instale as dependências
 npm install
 
-# Em outro terminal, rode o projeto Next.js
+# Rode a aplicação
 npm run dev
 # Esse comando irá rodar o servidor next e json server com o concurrency
+```
+---
+
+## 🧑‍💻 Como rodar os testes
+
+```bash
+# Instale as dependências
+npm run test
+```
+---
