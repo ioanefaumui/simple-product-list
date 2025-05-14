@@ -1,0 +1,460 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Caneca Azul",
+      "category": "Cozinha",
+      "amount": 24.9,
+      "description": "Caneca de cerâmica azul com acabamento brilhante.",
+      "image": "https://picsum.photos/id/101/300/200"
+    },
+    {
+      "id": "2",
+      "name": "Fone Max",
+      "category": "Áudio",
+      "amount": 199.9,
+      "description": "Fone de ouvido com isolamento acústico e som estéreo.",
+      "image": "https://picsum.photos/id/102/300/200"
+    },
+    {
+      "id": "3",
+      "name": "Planner 2025",
+      "category": "Papelaria",
+      "amount": 45,
+      "description": "Planner anual com capa dura e layout minimalista.",
+      "image": "https://picsum.photos/id/103/300/200"
+    },
+    {
+      "id": "4",
+      "name": "Camiseta Eco",
+      "category": "Moda",
+      "amount": 59.9,
+      "description": "Camiseta feita com algodão orgânico, super confortável.",
+      "image": "https://picsum.photos/id/104/300/200"
+    },
+    {
+      "id": "5",
+      "name": "Luminária Sol",
+      "category": "Decoração",
+      "amount": 129,
+      "description": "Luminária LED em formato de sol, com luz quente suave.",
+      "image": "https://picsum.photos/id/120/300/200"
+    },
+    {
+      "id": "6",
+      "name": "Mochila Urban",
+      "category": "Acessórios",
+      "amount": 149.9,
+      "description": "Mochila resistente com divisória para notebook.",
+      "image": "https://picsum.photos/id/106/300/200"
+    },
+    {
+      "id": "7",
+      "name": "Relógio Slim",
+      "category": "Moda",
+      "amount": 199,
+      "description": "Relógio analógico com pulseira de couro sintético.",
+      "image": "https://picsum.photos/id/107/300/200"
+    },
+    {
+      "id": "8",
+      "name": "Quadro Mar",
+      "category": "Arte",
+      "amount": 89,
+      "description": "Quadro decorativo com fotografia do mar em alta resolução.",
+      "image": "https://picsum.photos/id/108/300/200"
+    },
+    {
+      "id": "9",
+      "name": "Chá Ervas",
+      "category": "Bebidas",
+      "amount": 29.9,
+      "description": "Blend de ervas naturais com efeito calmante.",
+      "image": "https://picsum.photos/id/109/300/200"
+    },
+    {
+      "id": "10",
+      "name": "Lápis Color",
+      "category": "Papelaria",
+      "amount": 19.9,
+      "description": "Conjunto com 12 lápis de cor em madeira reciclada.",
+      "image": "https://picsum.photos/id/110/300/200"
+    },
+    {
+      "id": "11",
+      "name": "Capinha Neon",
+      "category": "Acessórios",
+      "amount": 35.9,
+      "description": "Capinha de silicone para celular com bordas reforçadas.",
+      "image": "https://picsum.photos/id/111/300/200"
+    },
+    {
+      "id": "12",
+      "name": "Mouse Pro",
+      "category": "Informática",
+      "amount": 89.9,
+      "description": "Mouse ergonômico com sensor óptico de alta precisão.",
+      "image": "https://picsum.photos/id/112/300/200"
+    },
+    {
+      "id": "13",
+      "name": "Toalha Soft",
+      "category": "Banho",
+      "amount": 49.9,
+      "description": "Toalha felpuda 100% algodão, super macia.",
+      "image": "https://picsum.photos/id/113/300/200"
+    },
+    {
+      "id": "14",
+      "name": "Livro Zen",
+      "category": "Livros",
+      "amount": 39.9,
+      "description": "Guia prático sobre meditação e equilíbrio emocional.",
+      "image": "https://picsum.photos/id/114/300/200"
+    },
+    {
+      "id": "16",
+      "name": "Squeeze Inox",
+      "category": "Esportes",
+      "amount": 54.9,
+      "description": "Garrafa térmica de inox, ideal para academia ou trilhas.",
+      "image": "https://picsum.photos/id/116/300/200"
+    },
+    {
+      "id": "17",
+      "name": "Chaveiro Pixel",
+      "category": "Geek",
+      "amount": 14.9,
+      "description": "Chaveiro retrô em formato de controle de videogame.",
+      "image": "https://picsum.photos/id/117/300/200"
+    },
+    {
+      "id": "18",
+      "name": "Tapete Yoga",
+      "category": "Esportes",
+      "amount": 129.9,
+      "description": "Tapete antiderrapante ideal para práticas de yoga e pilates.",
+      "image": "https://picsum.photos/id/118/300/200"
+    },
+    {
+      "id": "19",
+      "name": "Óleo Essencial",
+      "category": "Bem-estar",
+      "amount": 23.5,
+      "description": "Óleo essencial de lavanda, relaxante e natural.",
+      "image": "https://picsum.photos/id/119/300/200"
+    },
+    {
+      "id": "20",
+      "name": "Caderno Craft",
+      "category": "Papelaria",
+      "amount": 27.9,
+      "description": "Caderno com capa kraft e folhas pontilhadas para anotações.",
+      "image": "https://picsum.photos/id/120/300/200"
+    },
+    {
+      "id": "21",
+      "name": "Garrafa Vidro",
+      "category": "Cozinha",
+      "amount": 49.9,
+      "description": "Garrafa de vidro com tampa de bambu e capacidade de 700ml.",
+      "image": "https://picsum.photos/id/121/300/200"
+    },
+    {
+      "id": "22",
+      "name": "Suporte Celular",
+      "category": "Acessórios",
+      "amount": 29.9,
+      "description": "Suporte ajustável para celular, ideal para mesa de escritório.",
+      "image": "https://picsum.photos/id/122/300/200"
+    },
+    {
+      "id": "23",
+      "name": "Fone Earbud",
+      "category": "Áudio",
+      "amount": 159.9,
+      "description": "Fone intra-auricular sem fio com estojo de carregamento rápido.",
+      "image": "https://picsum.photos/id/123/300/200"
+    },
+    {
+      "id": "24",
+      "name": "Bolsa Térmica",
+      "category": "Esportes",
+      "amount": 79.9,
+      "description": "Bolsa térmica para lancheira com revestimento interno isolante.",
+      "image": "https://picsum.photos/id/124/300/200"
+    },
+    {
+      "id": "25",
+      "name": "Cortina Blackout",
+      "category": "Casa",
+      "amount": 199,
+      "description": "Cortina blackout com tecido anti-UV e prendedor integrado.",
+      "image": "https://picsum.photos/id/125/300/200"
+    },
+    {
+      "id": "26",
+      "name": "Almofada Relax",
+      "category": "Decoração",
+      "amount": 59.9,
+      "description": "Almofada com enchimento de fibra siliconada e capa removível.",
+      "image": "https://picsum.photos/id/126/300/200"
+    },
+    {
+      "id": "27",
+      "name": "Teclado Slim",
+      "category": "Informática",
+      "amount": 249.9,
+      "description": "Teclado mecânico slim com iluminação RGB e switches azuis.",
+      "image": "https://picsum.photos/id/127/300/200"
+    },
+    {
+      "id": "28",
+      "name": "Cinto Couro",
+      "category": "Moda",
+      "amount": 89,
+      "description": "Cinto de couro legítimo com fivela em aço escovado.",
+      "image": "https://picsum.photos/id/128/300/200"
+    },
+    {
+      "id": "29",
+      "name": "Mini Caixa",
+      "category": "Eletrônicos",
+      "amount": 129.9,
+      "description": "Caixa de som portátil bluetooth à prova d'água.",
+      "image": "https://picsum.photos/id/129/300/200"
+    },
+    {
+      "id": "30",
+      "name": "Porta-Retrato",
+      "category": "Decoração",
+      "amount": 39.9,
+      "description": "Porta-retrato em madeira com vidro temperado.",
+      "image": "https://picsum.photos/id/130/300/200"
+    },
+    {
+      "id": "31",
+      "name": "Bloco Notas",
+      "category": "Papelaria",
+      "amount": 19.5,
+      "description": "Bloco de notas adesivas coloridas, 200 folhas.",
+      "image": "https://picsum.photos/id/131/300/200"
+    },
+    {
+      "id": "32",
+      "name": "Luva Fitness",
+      "category": "Esportes",
+      "amount": 49.9,
+      "description": "Luva para musculação com palma em neoprene e velcro.",
+      "image": "https://picsum.photos/id/132/300/200"
+    },
+    {
+      "id": "33",
+      "name": "Espelho Mesa",
+      "category": "Beleza",
+      "amount": 119,
+      "description": "Espelho de mesa com iluminação de LED e ajuste de ângulo.",
+      "image": "https://picsum.photos/id/133/300/200"
+    },
+    {
+      "id": "34",
+      "name": "Painel Triplo",
+      "category": "Arte",
+      "amount": 249.9,
+      "description": "Conjunto de 3 quadros decorativos com moldura preta.",
+      "image": "https://picsum.photos/id/134/300/200"
+    },
+    {
+      "id": "35",
+      "name": "Kit Jardinagem",
+      "category": "Casa",
+      "amount": 89.9,
+      "description": "Kit com pá, ancinho e tesoura de poda, cabo em alumínio.",
+      "image": "https://picsum.photos/id/135/300/200"
+    },
+    {
+      "id": "36",
+      "name": "Relógio Digital",
+      "category": "Eletrônicos",
+      "amount": 129,
+      "description": "Relógio digital com display LCD e função cronômetro.",
+      "image": "https://picsum.photos/id/136/300/200"
+    },
+    {
+      "id": "37",
+      "name": "Chapéu Trilha",
+      "category": "Acessórios",
+      "amount": 59.9,
+      "description": "Chapéu de lona com proteção UV e ajuste de cordão.",
+      "image": "https://picsum.photos/id/137/300/200"
+    },
+    {
+      "id": "38",
+      "name": "Cobertor Soft",
+      "category": "Banho",
+      "amount": 99.9,
+      "description": "Cobertor soft touch, super macio e quente.",
+      "image": "https://picsum.photos/id/141/300/200"
+    },
+    {
+      "id": "39",
+      "name": "Faqueiro Aço",
+      "category": "Cozinha",
+      "amount": 149,
+      "description": "Conjunto de talheres em aço inoxidável, 24 peças.",
+      "image": "https://picsum.photos/id/139/300/200"
+    },
+    {
+      "id": "40",
+      "name": "Culete Bike",
+      "category": "Esportes",
+      "amount": 79,
+      "description": "Culete ciclismo com espuma anatômica e tecido respirável.",
+      "image": "https://picsum.photos/id/140/300/200"
+    },
+    {
+      "id": "41",
+      "name": "Caderno DIY",
+      "category": "Papelaria",
+      "amount": 22.9,
+      "description": "Caderno com capa para personalização e folhas brancas",
+      "image": "https://picsum.photos/id/141/300/200"
+    },
+    {
+      "id": "42",
+      "name": "Bolsa Praia",
+      "category": "Moda",
+      "amount": 79.9,
+      "description": "Bolsa em palha com forro interno impermeável",
+      "image": "https://picsum.photos/id/142/300/200"
+    },
+    {
+      "id": "43",
+      "name": "Base Maquiagem",
+      "category": "Beleza",
+      "amount": 59.9,
+      "description": "Base líquida de longa duração e cobertura média",
+      "image": "https://picsum.photos/id/143/300/200"
+    },
+    {
+      "id": "44",
+      "name": "Sabonete Glic",
+      "category": "Banho",
+      "amount": 12.5,
+      "description": "Sabonete glicerinado com essência de lavanda",
+      "image": "https://picsum.photos/id/144/300/200"
+    },
+    {
+      "id": "45",
+      "name": "Caneta Gel",
+      "category": "Papelaria",
+      "amount": 4.9,
+      "description": "Caneta gel colorida com ponta de 0.5 mm",
+      "image": "https://picsum.photos/id/145/300/200"
+    },
+    {
+      "id": "46",
+      "name": "Suporte LCD",
+      "category": "Informática",
+      "amount": 129.9,
+      "description": "Suporte para monitor com ajuste de altura e inclinação",
+      "image": "https://picsum.photos/id/146/300/200"
+    },
+    {
+      "id": "47",
+      "name": "Power Bank",
+      "category": "Eletrônicos",
+      "amount": 99.9,
+      "description": "Carregador portátil 10 000 mAh com duas portas USB",
+      "image": "https://picsum.photos/id/147/300/200"
+    },
+    {
+      "id": "48",
+      "name": "Óculos Sol",
+      "category": "Moda",
+      "amount": 149.9,
+      "description": "Óculos de sol com lente polarizada UV400",
+      "image": "https://picsum.photos/id/3/300/200"
+    },
+    {
+      "id": "49",
+      "name": "Chaleira Elétrica",
+      "category": "Cozinha",
+      "amount": 119.9,
+      "description": "Chaleira inox com desligamento automático",
+      "image": "https://picsum.photos/id/149/300/200"
+    },
+    {
+      "id": "50",
+      "name": "Caixa Fósforos",
+      "category": "Decoração",
+      "amount": 29,
+      "description": "Caixa decorativa com fósforos artesanais",
+      "image": "https://picsum.photos/id/12/300/200"
+    },
+    {
+      "id": "51",
+      "name": "Tapete Sala",
+      "category": "Decoração",
+      "amount": 199.9,
+      "description": "Tapete felpudo 120×180 cm, ideal para sala de estar",
+      "image": "https://picsum.photos/id/151/300/200"
+    },
+    {
+      "id": "53",
+      "name": "Caneca Travel",
+      "category": "Cozinha",
+      "amount": 49.9,
+      "description": "Caneca térmica de viagem com tampa anti-vazamento",
+      "image": "https://picsum.photos/id/153/300/200"
+    },
+    {
+      "id": "54",
+      "name": "Livro Receitas",
+      "category": "Livros",
+      "amount": 79.9,
+      "description": "Livro com receitas saudáveis e instruções passo a passo",
+      "image": "https://picsum.photos/id/154/300/200"
+    },
+    {
+      "id": "56",
+      "name": "Fone Game",
+      "category": "Áudio",
+      "amount": 229.9,
+      "description": "Headset gamer com microfone e iluminação RGB",
+      "image": "https://picsum.photos/id/156/300/200"
+    },
+    {
+      "id": "57",
+      "name": "Mochila Bike",
+      "category": "Esportes",
+      "amount": 159.9,
+      "description": "Mochila de hidratação para ciclismo com reservatório",
+      "image": "https://picsum.photos/id/157/300/200"
+    },
+    {
+      "id": "58",
+      "name": "Gamepad X",
+      "category": "Eletrônicos",
+      "amount": 179.9,
+      "description": "Controle sem fio compatível com PC e consoles",
+      "image": "https://picsum.photos/id/158/300/200"
+    },
+    {
+      "id": "59",
+      "name": "Mixer Mão",
+      "category": "Cozinha",
+      "amount": 119,
+      "description": "Mixer de mão com 3 velocidades e acessórios inclusos",
+      "image": "https://picsum.photos/id/159/300/200"
+    },
+    {
+      "id": "60",
+      "name": "Capa Notebook",
+      "category": "Informática",
+      "amount": 49.9,
+      "description": "Capa protetora para notebook de até 15 polegadas",
+      "image": "https://picsum.photos/id/160/300/200"
+    }
+  ]
+}
