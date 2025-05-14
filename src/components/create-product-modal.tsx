@@ -14,6 +14,7 @@ import { Input } from "./ui/input";
 import { ProductService } from "@/services";
 import { Dices } from "lucide-react";
 import { toast } from "sonner";
+import { useRouter } from "next/navigation";
 
 export function CreateProductModal() {
   const [open, setOpen] = useState(false);
@@ -25,6 +26,8 @@ export function CreateProductModal() {
     description: "",
     image: "",
   });
+
+  const router = useRouter();
 
   useEffect(() => {
     if (!open) {
@@ -99,6 +102,7 @@ export function CreateProductModal() {
         description: "",
         image: "",
       });
+      router.refresh();
     } catch (err) {
       console.error("Erro ao criar produto:", err);
       toast(`Houve um erro ao criar o produto.`);
